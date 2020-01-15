@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-starter",
+  "description": "A starter Next.js project that sets up my tools, preferences, etc.",
+  "version": "0.1.0",
+  "private": true,
+  "author": "David Mallard <correspondence@davidmallard.id.au>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
