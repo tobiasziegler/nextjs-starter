@@ -6,6 +6,14 @@
   "author": "David Mallard <correspondence@davidmallard.id.au>",
   "license": "MIT",
   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^9.1.7",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   }
 }
