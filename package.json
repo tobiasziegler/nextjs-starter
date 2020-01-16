@@ -5,6 +5,9 @@
   "private": true,
   "author": "David Mallard <correspondence@davidmallard.id.au>",
   "license": "MIT",
+  "homepage": "https://github.com/tobiasziegler/nextjs-starter#readme",
+  "bugs": "https://github.com/tobiasziegler/nextjs-starter/issues",
+  "repository": "github:tobiasziegler/nextjs-starter",
   "scripts": {
     "dev": "next",
     "build": "next build",
