@@ -33,7 +33,7 @@ From here, you should be all set to fire up a code editor and start your new pro
 ## Features
 
 - Code editor configuration using [EditorConfig](https://editorconfig.org/).
-- JavaScript linting and formatting using [ESLint](https://eslint.org/) integrated with [Prettier](https://prettier.io/), applying the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
+- JavaScript linting using [ESLint](https://eslint.org/) and code formatting using [Prettier](https://prettier.io/), applying the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 - Formatting of other file formats using [Prettier](https://prettier.io/).
 - Pre-commit hooks to lint and format staged files and automatically fix problems, using [Husky](https://github.com/typicode/husky) and [Lint-Staged](https://github.com/okonet/lint-staged).
 - The project uses a `src` directory as added in [Next.js 9.1](https://nextjs.org/blog/next-9-1#src-directory-support), to contain the `pages` and any other source code directories.
