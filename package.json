@@ -20,12 +20,12 @@
     }
   },
   "lint-staged": {
-    "*.{js, jsx, ts, tsx}": [
+    "*.{js,jsx,ts,tsx}": [
       "eslint --fix",
       "prettier --write",
       "git add"
     ],
-    "*.{css, less, scss, graphql, gql, html, json, md, markdown, mdown, mkdn, mdx, vue, yaml, yml}": [
+    "*.{css,less,scss,graphql,gql,html,json,md,markdown,mdown,mkdn,mdx,vue,yaml,yml}": [
       "prettier --write",
       "git add"
     ]
